@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="textViewMainTitle">Shared preferences</string>
+    <string name="buttonMainInput">Input</string>
+    <string name="buttonMainInfo">Saved Info</string>
+    <string name="editTextInputId">ID를 입력하세요</string>
+    <string name="editTextInputPassword">Password를 입력하세요</string>
+    <string name="editTextInputEmail">e-mail을 입력하세요.</string>
+    <string name="buttonInputSave">Save</string>
+    <string name="buttonSavedOk">OK</string>
+</resources>
